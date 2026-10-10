@@ -105,7 +105,7 @@ Job titles were reviewed and cleaned before classification into broader job fami
 
 Analysed salary trends across the 2020–2025 period to examine how average and median salaries changed over time. This analysis provides a year-by-year comparison of salary levels within the dataset.
 
-![Salary By Year](assets\power_query\salary_by_year_pq.PNG)
+![Salary By Year](assets/power_query/salary_by_year_pq.PNG)
 
 ---
 
